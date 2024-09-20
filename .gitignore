@@ -1,0 +1,14 @@
+# # Environments
+.env
+.env.*
+venv.bak/
+*.virtualenv
+
+# IDE-specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# mypy cache
+.mypy_cache/
